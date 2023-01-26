@@ -1,0 +1,106 @@
+
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+background: black;
+}
+
+.nav-bar {
+	display: flex;
+    align-items: flex-start;
+	width: 100vh;
+	height: 1000px;
+	background-color: #fff;
+    flex-direction: column;	
+}
+
+
+header {
+	padding: 20px 10px;
+	width: 97.2vh;
+	height: 50px;
+    background-color: hsl(109, 65%, 50%);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+
+.whatsapp {
+	color: white;
+	font-weight: 600;
+    font-size: 2rem;
+}
+
+.icon {
+	gap: 15px;
+}
+
+.icon a {
+	color: white;
+	font-size: 3rem;
+
+}
+
+.bar {
+	background-color: hsl(109, 65%, 50%);
+	width: 100%;
+	height: 50px;
+	display: flex;
+	justify-content: space-around;
+	gap: 40px;
+	border-bottom: 1px solid hsl(109, 65%, 50%);
+
+}
+
+.bar a {
+	text-align: center;
+	width: 20%;
+	text-decoration: none;
+	font-size: 2em;
+	color: #fff;
+
+}
+
+.bar .com  {
+	font-size: 25px;   
+}
+
+#comm {
+	border-bottom: 5px solid;
+}
+
+.chats {
+	border-bottom: 5px solid;
+}
+
+.calls {
+	border-bottom: 5px solid;
+}
+
+.status {
+	border-bottom: 5px solid;
+}
+
+#search {
+	border-style: none;
+	width: 100%;
+	height: 50px;
+	padding: 20px 10px;
+}
+
+#sb {
+	width: 100%;
+    display: flex;
+
+}
+
+.sea {
+	width: 100%;
+	display: flex;
+}
+
+#arr {
+	height: 50px;
+}

@@ -1,0 +1,64 @@
+.contect1 {
+    display: flex;
+    
+}
+
+.text {
+    display: flex;
+    font-weight: 1;
+    font-size: 20px;
+    opacity: 0.7;
+}
+
+.time {
+    padding-left: 37vh;
+}
+
+.time2 {
+    padding-left: 60.9vh;
+}
+
+.com-con {
+    display: flex;
+    border-bottom: 5px solid whitesmoke;
+    width: 100%;
+}
+
+.commu {
+    padding: 10px;
+    height: 70px;
+}
+
+.status-con {
+    padding: 5px;
+    display: flex;
+    font-size: 13px;
+}
+
+.stat {
+    border-radius: 50%;
+    padding-right: 10px;
+    height: 100px;
+}
+
+.sta {
+    font-weight: 1;
+    font-size: 20px;
+    opacity: 0.7;
+}
+
+.st {
+    padding-left: 20px;
+}
+
+.link-con {
+    display: flex;
+}
+
+.link {
+    padding-top: 20px;
+    border-radius: 50%;
+    padding-right: 29px;
+    height: 80px;
+}
+
